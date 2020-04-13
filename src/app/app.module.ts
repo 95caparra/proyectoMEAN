@@ -16,7 +16,7 @@ import { APP_ROUTES } from './app.routes';
   declarations: [
     AppComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
   ],
   imports: [
     BrowserModule,
